@@ -1,4 +1,4 @@
-import sys
+#import sys
 
 args = sys.argv[1:]
 num_args = len(args)
